@@ -12,3 +12,17 @@
     font-size: 35px;
     color: blue;
 }
+.linhaCinza{
+    background-color: #333;
+    color: aliceblue
+}
+
+.superTitulo{
+    background-color: gold;
+    color: black;
+}
+
+.normaTitulo{
+    background-color: silver;
+    color: black;
+}
